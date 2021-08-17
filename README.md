@@ -1,0 +1,2 @@
+# VIKA
+ERC20 Token on Ethereum
